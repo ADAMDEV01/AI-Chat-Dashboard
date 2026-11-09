@@ -65,3 +65,15 @@ npm run preview
 
 **Adam Gomaa Hassan**
 [GitHub](https://github.com/ADAMDEV01) · [LinkedIn](https://linkedin.com/in/adam-gomaa-8645b0388)
+
+## Skills demonstrated
+
+- React and TypeScript component development.
+- Responsive interface design with CSS Grid and Flexbox.
+- Asynchronous JavaScript, simulated streaming, retry flows, and request cancellation with AbortController.
+- Browser persistence with localStorage.
+- Managing loading, error, retry, and conversation states.
+
+## Repository
+
+- Source code: https://github.com/ADAMDEV01/AI-Chat-Dashboard
